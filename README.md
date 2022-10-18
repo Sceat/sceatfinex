@@ -65,3 +65,11 @@ The server will respond with the new orderbook state,
 ```
 
 Feel free to play with different combination.
+
+## Test
+
+The project is tested and covered
+
+```
+npm run test
+```
